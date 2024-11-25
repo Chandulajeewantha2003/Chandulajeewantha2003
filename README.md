@@ -9,11 +9,26 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-👋 Hi I'm Chandula
- - 🌱 I’m currently learning **HTML ,CSS , PHP, JS**
- - 🤔 I’m looking for help with **learning GitHub Actions**
- - 💬 Ask me about **Web Developing and Hosting**
- - 😄 Pronouns: **Bro**
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently Studying SLIIT Univercity Of Sri Lanka
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Software Engineering.
+- 💼 &nbsp; Web developer.
+- 🌱 &nbsp; Enthusiast in IT Industry and Artificial Intelligence .
+- ✍️ &nbsp; Watching Horror Films and Actions.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; HTML | CSS | Talwind | JavaScript | PHP | Java | C | C++
+- 🌐 &nbsp; Hostinger | 000webhost | Awardspace
+- 🛢 &nbsp; MySQL | Xampp
+- 🔧 &nbsp; Notepad++ | PyCharm | Visual Studio code | | Git
+- 🖥 &nbsp; Adobe Office | Adobe Illustrator | Adobe Photoshop 
+
+<br>
+
 <div>
   
 <img align='right' src="https://i.imgur.com/iXuL1HG.png" width="500"/>
