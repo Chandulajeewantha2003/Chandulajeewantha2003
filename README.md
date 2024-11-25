@@ -9,12 +9,12 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-                        ### 👋 Hi I'm Chandula
-- 🌱 I’m currently learning **HTML ,CSS , PHP, JS**
-- 👯 I’m looking to collaborate on **[karan/Projects](https://github.com/Chandulajeewantha2003/Projects)**
-- 🤔 I’m looking for help with **learning GitHub Actions**
-- 💬 Ask me about **Web Developing and Hosting**
-- 😄 Pronouns: **Bro**
+                                  👋 Hi I'm Chandula
+               - 🌱 I’m currently learning **HTML ,CSS , PHP, JS**
+               - 👯 I’m looking to collaborate on **[karan/Projects](https://github.com/Chandulajeewantha2003/Projects)**
+               - 🤔 I’m looking for help with **learning GitHub Actions**
+               - 💬 Ask me about **Web Developing and Hosting**
+               - 😄 Pronouns: **Bro**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
