@@ -16,7 +16,7 @@
  - 😄 Pronouns: **Bro**
 <div>
   
-<img align='right' src="https://i.imgur.com/iXuL1HG.png"  width="500"/>
+<img align='right' src="https://i.imgur.com/iXuL1HG.png" class="mb-96" width="500"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
