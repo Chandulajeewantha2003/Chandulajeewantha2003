@@ -10,10 +10,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Studying SLIIT Univercity Of Sri Lanka
+- 🔭 &nbsp; I’m currently Studying SLIIT University Of Sri Lanka
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Software Engineering.
-- 💼 &nbsp; Web developer.
+- 💼 &nbsp; Web developing
 - 🌱 &nbsp; Enthusiast in IT Industry and Artificial Intelligence .
 - ✍️ &nbsp; Watching Horror Films and Actions.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
