@@ -15,7 +15,7 @@
 - 🎓 &nbsp; Studying Software Engineering.
 - 💼 &nbsp; Web developing(front-end / back-end)
 - 🌱 &nbsp; Enthusiast in IT Industry and Artificial Intelligence .
-- ✍️ &nbsp; Watching Horror Films and Actions.
+- ✍️ &nbsp; Watching Tamil-Movies/K-Drams/TV Series(Netflix).
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
