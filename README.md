@@ -43,6 +43,19 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
 </p>
 
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chandulajeewantha2003/Chandulajeewantha2003/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chandulajeewantha2003/Chandulajeewantha2003/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Chandulajeewantha2003/Chandulajeewantha2003/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+
 ```yaml
 Name: Chandula Jeewantha
 Role: Software Engineer | Web Developer
