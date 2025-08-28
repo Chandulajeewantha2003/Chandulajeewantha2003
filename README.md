@@ -9,7 +9,6 @@
 
 ---
 
-<!-- About Me -->
 ## 👨‍💻 About Me  
 - 🎓 Software Engineering undergraduate at **SLIIT University, Sri Lanka**  
 - 💼 Full-stack developer passionate about **Web | Mobile | Backend**  
@@ -20,7 +19,6 @@
 
 ---
 
-<!-- Tech Stack with 3D icons -->
 ## ⚡ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,php,java,cpp,kotlin,mongodb,express,react,nodejs,mysql,git,github&perline=7"/>
@@ -28,7 +26,6 @@
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chandulajeewantha2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180">
@@ -41,7 +38,6 @@
 
 ---
 
-<!-- Fun Animation -->
 ## 🎨 A Little More About Me  
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" />
